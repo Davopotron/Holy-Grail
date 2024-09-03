@@ -1,0 +1,56 @@
+h1 {
+    text-align: center;
+    border: 1px solid black;
+    margin: 0;
+
+}
+.left-sidebar {
+    display: flex;
+    flex-direction: column;
+    border: 1px solid black;
+    width: fit-content;
+
+}
+
+.book {
+    display: flex;
+    align-items: center;
+    font-size: 20px;
+    height: 100px;
+
+}
+
+h2 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.flex-whole {
+    display: flex;
+}
+.right-sidebar {
+    border: 1px solid black
+}
+
+.Footer {
+    display: flex;
+    align-items: center;
+    align-content: center;
+    border: 1px solid black;
+}
+
+.Subfooter {
+    display: flex;
+    
+}
+.content {
+    display: flex;
+    align-content: center;
+}
+
+footer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
